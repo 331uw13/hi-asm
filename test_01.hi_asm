@@ -1,0 +1,13 @@
+
+
+
+
+func:void .entry {
+
+    var @test, i32
+    var @ok, i32
+    mov @test <- 12456
+
+}
+
+
